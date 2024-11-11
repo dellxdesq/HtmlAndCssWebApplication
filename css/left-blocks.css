@@ -84,3 +84,12 @@
     height: 100%;
     object-fit: cover;
 }
+
+.star {
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    top: 163px;
+    left: 396px;
+    opacity: 1; 
+}

@@ -66,3 +66,12 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
 }
+
+.second-star {
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    top: 423px;
+    left: 1028px;
+    opacity: 1; 
+}
