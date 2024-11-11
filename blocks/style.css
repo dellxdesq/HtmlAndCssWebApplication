@@ -1,0 +1,43 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+}
+
+.star {
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    top: 163px;
+    left: 396px;
+    opacity: 1; 
+}
+
+.second-star {
+    position: absolute;
+    font-size: 80px;
+    color: black;
+    top: 423px;
+    left: 1028px;
+    opacity: 1; 
+}
+
+
+
+
+
+
+
+

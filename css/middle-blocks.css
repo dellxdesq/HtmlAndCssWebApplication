@@ -1,0 +1,31 @@
+.rotaited-symbols-block {
+    position: absolute;
+    width: 415.48px;
+    height: 709px;
+    top: 180px;
+    left: 512px;
+    gap: 0px;
+    border-radius: 272px;
+    
+}
+
+.picture-first {
+    position: absolute;
+    width: 415.48px;
+    height: 139.3px;
+    top: 0; 
+    left: 0; 
+    gap: 0px;
+    
+}
+
+.picture-second {
+    position: absolute;
+    width: 374px;
+    height: 640px;
+    top: 69px; 
+    left: 21px; 
+    gap: 0px;
+    border-radius: 272px;
+    
+}
